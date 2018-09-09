@@ -4,7 +4,7 @@ using namespace std;
 class student
 {
 	char name[10];
-	int rn;
+	int rn[10];
 	public:
    void getdata()
    {
