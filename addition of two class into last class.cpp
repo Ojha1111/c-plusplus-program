@@ -1,6 +1,6 @@
 #include<iostream>
 using namespace std;
-class two;
+class two
 class one
 {
 int a;
