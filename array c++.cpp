@@ -1,4 +1,4 @@
- //array in class
+ 
  #include <iostream>
  using namespace std;
  class employees
