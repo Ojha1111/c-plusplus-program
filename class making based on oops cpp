@@ -8,14 +8,16 @@ class xyz
 		int b;
 		void get()
 		{
-			cin>>a>>b;
+			cin>>a;
+			cin>>b;
 			
 		}
 		void put()
 		{
 		
-		cout<<a<<endl<<b;
-	}
+		cout<<a<<endl;
+			cout<<b;
+	       }
 };
 
 main()
